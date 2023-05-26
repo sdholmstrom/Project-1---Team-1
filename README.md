@@ -13,5 +13,3 @@
 ### Monte Carlo Simulations were used to project hundreds of possible outcomes of cumulative returns for both the Sharpe Ratio Portfolio and our benchmark, the 'SPY' ETF. We found a significant difference in the outcomes that place doubt on the reliability of our outcomes for real-life portfolio stock selections.
 
 ![plot 1](Images/plot_1.png)
-=======
->>>>>>> 839186d23dedc8c105f3a26994e39b5bf06426e6
