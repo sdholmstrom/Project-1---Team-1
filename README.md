@@ -12,4 +12,8 @@
 ## What method(s) should we use to predict performance?
 ### Monte Carlo Simulations were used to project hundreds of possible outcomes of cumulative returns for both the Sharpe Ratio Portfolio and our benchmark, the 'SPY' ETF. We found a significant difference in the outcomes that place doubt on the reliability of our outcomes for real-life portfolio stock selections.
 
-![plot 1](Images/plot_1.png)
+![Plot 1](Images/Plot_1.png)
+![Plot 2](Images/Plot_2.png)
+![Plot 3](Images/Plot_3.png)
+![Plot 4](Images/Plot_4.png)
+![Plot 5](Images/Plot_5.png)
